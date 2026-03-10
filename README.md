@@ -2,6 +2,11 @@
 
 A Vite + React financial dashboard prototype with individual, family, and advisor flows, sector drill-downs, and AI-assisted recommendations.
 
+## Project Description
+An AI-assisted wealth management platform designed to **unify financial data, assess financial wellness, visualize wealth composition, and generate personalized financial recommendations** through an intuitive and interactive dashboard.
+
+The system enables **clients, advisors, and businesses or family members** to collaboratively monitor and manage wealth across multiple asset classes in a secure environment.
+
 ## Highlights
 - Unified main login with individual and advisor tabs
 - Individual dashboard with sector drill-down pages
