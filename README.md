@@ -63,8 +63,6 @@ Main login:
 - Individual: `user@financialwallet.com` / `user123`
 - Advisor: `advisor@financialwallet.com` / `advisor123`
 
-Legacy login page:
-- `demo@financialwallet.com` / `demo123`
 
 Advisor 2FA demo codes:
 - Success: `123456`
